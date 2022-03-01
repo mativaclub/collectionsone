@@ -1,4 +1,4 @@
-package com.exceptions.exceptions;
+package com.collectionsone.collectionsone;
 
 public interface EmployeeService {
 
